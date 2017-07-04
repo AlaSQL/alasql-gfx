@@ -1,1 +1,1 @@
-# alasql-gfx
+# Graphic elements for AlaSQL
